@@ -134,6 +134,7 @@
     <ClCompile Include="taxt_05.cpp" />
     <ClCompile Include="taxt_06_sizeof关键字.cpp" />
     <ClCompile Include="taxt_07实型(浮点型).cpp" />
+    <ClCompile Include="taxt_08字符型.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
